@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="SajorMauiApp" mvid="791f8e3072ce47dc9fbd6cc099e54e0e">
+  <java-to-managed>
+    <entry java-name="crc64d53b7035feee32f7/MainActivity" managed-name="SajorMauiApp.MainActivity, SajorMauiApp" managed-type-token-id="33554441" />
+    <entry java-name="crc64d53b7035feee32f7/MainApplication" managed-name="SajorMauiApp.MainApplication, SajorMauiApp" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64d53b7035feee32f7/MainActivity" managed-name="SajorMauiApp.MainActivity, SajorMauiApp" managed-type-token-id="33554441" />
+    <entry java-name="crc64d53b7035feee32f7/MainApplication" managed-name="SajorMauiApp.MainApplication, SajorMauiApp" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>

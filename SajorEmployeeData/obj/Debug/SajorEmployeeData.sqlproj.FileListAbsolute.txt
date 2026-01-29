@@ -1,0 +1,10 @@
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\bin\Debug\SajorEmployeeData.dacpac
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\bin\Debug\SajorEmployeeData.dll
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\bin\Debug\SajorEmployeeData.pdb
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\obj\Debug\SajorEmployeeData.sqlproj.AssemblyReference.cache
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\obj\Debug\SajorEmployeeData.dll
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\obj\Debug\SajorEmployeeData.pdb
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\obj\Debug\Model.xml
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\obj\Debug\refactor.xml
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\obj\Debug\postdeploy.sql
+D:\SajorIPT102\Sajor_IPT102\SajorEmployeeData\obj\Debug\predeploy.sql

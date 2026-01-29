@@ -1,0 +1,12 @@
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\bin\Debug\net10.0\SajorRepository.deps.json
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\bin\Debug\net10.0\SajorRepository.dll
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\bin\Debug\net10.0\SajorRepository.pdb
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\SajorRepository.csproj.AssemblyReference.cache
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\SajorRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\SajorRepository.AssemblyInfoInputs.cache
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\SajorRepository.AssemblyInfo.cs
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\SajorRepository.csproj.CoreCompileInputs.cache
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\SajorRepository.dll
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\refint\SajorRepository.dll
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\SajorRepository.pdb
+D:\SajorIPT102\Sajor_IPT102\SajorRepository\obj\Debug\net10.0\ref\SajorRepository.dll

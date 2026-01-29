@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SajorIPT102\\Sajor_IPT102\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|d:\\sajoript102\\sajor_ipt102\\sajoriptframework\\commands\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|solutionrelative:sajoriptframework\\commands\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC150C8C-6D2E-4E83-95AA-08879301AF30}|SajorRepository\\SajorRepository.csproj|d:\\sajoript102\\sajor_ipt102\\sajorrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC150C8C-6D2E-4E83-95AA-08879301AF30}|SajorRepository\\SajorRepository.csproj|solutionrelative:sajorrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC150C8C-6D2E-4E83-95AA-08879301AF30}|SajorRepository\\SajorRepository.csproj|d:\\sajoript102\\sajor_ipt102\\sajorrepository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC150C8C-6D2E-4E83-95AA-08879301AF30}|SajorRepository\\SajorRepository.csproj|solutionrelative:sajorrepository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|d:\\sajoript102\\sajor_ipt102\\sajordomain\\commands\\icreateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|solutionrelative:sajordomain\\commands\\icreateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|d:\\sajoript102\\sajor_ipt102\\sajordomain\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|solutionrelative:sajordomain\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|d:\\sajoript102\\sajor_ipt102\\sajoriptframework\\sajoriptframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|solutionrelative:sajoriptframework\\sajoriptframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|d:\\sajoript102\\sajor_ipt102\\sajoriptframework\\queries\\getallemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|solutionrelative:sajoriptframework\\queries\\getallemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|d:\\sajoript102\\sajor_ipt102\\sajoriptframework\\extensions\\employeeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|solutionrelative:sajoriptframework\\extensions\\employeeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|d:\\sajoript102\\sajor_ipt102\\sajoriptframework\\commands\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|solutionrelative:sajoriptframework\\commands\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|d:\\sajoript102\\sajor_ipt102\\sajoriptframework\\commands\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|solutionrelative:sajoriptframework\\commands\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|d:\\sajoript102\\sajor_ipt102\\sajoriptframework\\queries\\getemployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDF2B02-9288-492D-9758-094394326DBC}|SajorIPTFramework\\SajorIPTFramework.csproj|solutionrelative:sajoriptframework\\queries\\getemployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|d:\\sajoript102\\sajor_ipt102\\sajordomain\\queries\\igetemployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|solutionrelative:sajordomain\\queries\\igetemployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|d:\\sajoript102\\sajor_ipt102\\sajordomain\\queries\\igetallemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|solutionrelative:sajordomain\\queries\\igetallemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|d:\\sajoript102\\sajor_ipt102\\sajordomain\\commands\\iupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|solutionrelative:sajordomain\\commands\\iupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|d:\\sajoript102\\sajor_ipt102\\sajordomain\\commands\\ideleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|solutionrelative:sajordomain\\commands\\ideleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|d:\\sajoript102\\sajor_ipt102\\sajordomain\\sajordomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3808369-BB7F-4EE8-BBA0-F9FC3E778C51}|SajorDomain\\SajorDomain.csproj|solutionrelative:sajordomain\\sajordomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\GetAllEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|solutionrelative:SajorEmployeeData\\StoredProcedure\\GetAllEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\CreateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|solutionrelative:SajorEmployeeData\\StoredProcedure\\CreateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\DeleteEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|solutionrelative:SajorEmployeeData\\StoredProcedure\\DeleteEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\ReadEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|solutionrelative:SajorEmployeeData\\StoredProcedure\\ReadEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\UpdateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E3ECCF1F-2FF8-4111-9049-53CBC7CB864A}|SajorEmployeeData\\SajorEmployeeData.sqlproj|solutionrelative:SajorEmployeeData\\StoredProcedure\\UpdateEmployee.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7375B2-94D8-4E5C-B3A5-CF3851793C47}|SajorWpf\\SajorWpf.csproj|d:\\sajoript102\\sajor_ipt102\\sajorwpf\\sajorwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B7375B2-94D8-4E5C-B3A5-CF3851793C47}|SajorWpf\\SajorWpf.csproj|solutionrelative:sajorwpf\\sajorwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTDomain\\Queries\\IGetEmployeesByPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SajorIPTDomain\\Queries\\IGetEmployeesByPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Services\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SajorIPTFramework\\Services\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorRepository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "SajorRepository\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorRepository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "SajorRepository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:08:11.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateEmployee.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Commands\\CreateEmployee.cs",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\Commands\\CreateEmployee.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Commands\\CreateEmployee.cs",
+              "RelativeToolTip": "SajorIPTFramework\\Commands\\CreateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:49:52.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICreateEmployee.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Commands\\ICreateEmployee.cs",
+              "RelativeDocumentMoniker": "SajorDomain\\Commands\\ICreateEmployee.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Commands\\ICreateEmployee.cs",
+              "RelativeToolTip": "SajorDomain\\Commands\\ICreateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:43:54.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SajorIPTFramework.csproj",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\SajorIPTFramework.csproj",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\SajorIPTFramework.csproj",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\SajorIPTFramework.csproj",
+              "RelativeToolTip": "SajorIPTFramework\\SajorIPTFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T13:26:19.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModels.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Models\\EmployeeModels.cs",
+              "RelativeDocumentMoniker": "SajorDomain\\Models\\EmployeeModels.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Models\\EmployeeModels.cs",
+              "RelativeToolTip": "SajorDomain\\Models\\EmployeeModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:43:26.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorRepository\\Repository.cs",
+              "RelativeDocumentMoniker": "SajorRepository\\Repository.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorRepository\\Repository.cs",
+              "RelativeToolTip": "SajorRepository\\Repository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:08:17.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllEmployees.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Queries\\GetAllEmployees.cs",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\Queries\\GetAllEmployees.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Queries\\GetAllEmployees.cs",
+              "RelativeToolTip": "SajorIPTFramework\\Queries\\GetAllEmployees.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:50:16.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeExtension.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Extensions\\EmployeeExtension.cs",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\Extensions\\EmployeeExtension.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Extensions\\EmployeeExtension.cs",
+              "RelativeToolTip": "SajorIPTFramework\\Extensions\\EmployeeExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:08:36.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEmployee.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Commands\\UpdateEmployee.cs",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\Commands\\UpdateEmployee.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Commands\\UpdateEmployee.cs",
+              "RelativeToolTip": "SajorIPTFramework\\Commands\\UpdateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:50:18.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteEmployee.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Commands\\DeleteEmployee.cs",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\Commands\\DeleteEmployee.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Commands\\DeleteEmployee.cs",
+              "RelativeToolTip": "SajorIPTFramework\\Commands\\DeleteEmployee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T01:50:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetEmployeeById.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Queries\\GetEmployeeById.cs",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\Queries\\GetEmployeeById.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Queries\\GetEmployeeById.cs",
+              "RelativeToolTip": "SajorIPTFramework\\Queries\\GetEmployeeById.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:43:00.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGetEmployeeById.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Queries\\IGetEmployeeById.cs",
+              "RelativeDocumentMoniker": "SajorDomain\\Queries\\IGetEmployeeById.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Queries\\IGetEmployeeById.cs",
+              "RelativeToolTip": "SajorDomain\\Queries\\IGetEmployeeById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:03:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGetAllEmployee.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Queries\\IGetAllEmployee.cs",
+              "RelativeDocumentMoniker": "SajorDomain\\Queries\\IGetAllEmployee.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Queries\\IGetAllEmployee.cs",
+              "RelativeToolTip": "SajorDomain\\Queries\\IGetAllEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T10:03:48.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUpdateEmployee.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Commands\\IUpdateEmployee.cs",
+              "RelativeDocumentMoniker": "SajorDomain\\Commands\\IUpdateEmployee.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Commands\\IUpdateEmployee.cs",
+              "RelativeToolTip": "SajorDomain\\Commands\\IUpdateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:44:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDeleteEmployee.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Commands\\IDeleteEmployee.cs",
+              "RelativeDocumentMoniker": "SajorDomain\\Commands\\IDeleteEmployee.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\Commands\\IDeleteEmployee.cs",
+              "RelativeToolTip": "SajorDomain\\Commands\\IDeleteEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:44:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SajorDomain.csproj",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\SajorDomain.csproj",
+              "RelativeDocumentMoniker": "SajorDomain\\SajorDomain.csproj",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorDomain\\SajorDomain.csproj",
+              "RelativeToolTip": "SajorDomain\\SajorDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T23:42:00.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SajorWpf.csproj",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorWpf\\SajorWpf.csproj",
+              "RelativeDocumentMoniker": "SajorWpf\\SajorWpf.csproj",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorWpf\\SajorWpf.csproj",
+              "RelativeToolTip": "SajorWpf\\SajorWpf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T00:04:16.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IGetEmployeesByPosition.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTDomain\\Queries\\IGetEmployeesByPosition.cs",
+              "RelativeDocumentMoniker": "SajorIPTDomain\\Queries\\IGetEmployeesByPosition.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTDomain\\Queries\\IGetEmployeesByPosition.cs",
+              "RelativeToolTip": "SajorIPTDomain\\Queries\\IGetEmployeesByPosition.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:51:09.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "SajorIPTFramework\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorIPTFramework\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "SajorIPTFramework\\Services\\EmployeeService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T13:07:26.458Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteEmployee.sql",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\DeleteEmployee.sql",
+              "RelativeDocumentMoniker": "SajorEmployeeData\\StoredProcedure\\DeleteEmployee.sql",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\DeleteEmployee.sql\r\n(localdb)\\ProjectModels.SajorEmployeeData_1\r\n(LAPTOP-J5BBNH14\\USER)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T00:48:16.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateEmployee.sql",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\CreateEmployee.sql",
+              "RelativeDocumentMoniker": "SajorEmployeeData\\StoredProcedure\\CreateEmployee.sql",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\CreateEmployee.sql\r\n(localdb)\\ProjectModels.SajorEmployeeData_1\r\n(LAPTOP-J5BBNH14\\USER)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T00:27:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllEmployee.sql",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\GetAllEmployee.sql",
+              "RelativeDocumentMoniker": "SajorEmployeeData\\StoredProcedure\\GetAllEmployee.sql",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\GetAllEmployee.sql\r\n(localdb)\\ProjectModels.SajorEmployeeData_1\r\n(LAPTOP-J5BBNH14\\USER)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-27T13:31:15.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReadEmployee.sql",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\ReadEmployee.sql",
+              "RelativeDocumentMoniker": "SajorEmployeeData\\StoredProcedure\\ReadEmployee.sql",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\ReadEmployee.sql\r\n(localdb)\\ProjectModels.SajorEmployeeData_1\r\n(LAPTOP-J5BBNH14\\USER)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-26T00:50:40.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateEmployee.sql",
+              "DocumentMoniker": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\UpdateEmployee.sql",
+              "RelativeDocumentMoniker": "SajorEmployeeData\\StoredProcedure\\UpdateEmployee.sql",
+              "ToolTip": "D:\\SajorIPT102\\Sajor_IPT102\\SajorEmployeeData\\StoredProcedure\\UpdateEmployee.sql\r\n(localdb)\\ProjectModels.SajorEmployeeData_1\r\n(LAPTOP-J5BBNH14\\USER)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-22T13:26:23.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

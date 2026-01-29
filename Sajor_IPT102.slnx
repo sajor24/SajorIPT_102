@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="SajorBlazorWeb/SajorBlazorWeb.csproj" Id="d988c683-9e9f-4a5f-93bf-b894c7bd03dd" />
+  <Project Path="SajorDomain/SajorDomain.csproj" Id="b3808369-bb7f-4ee8-bba0-f9fc3e778c51" />
+  <Project Path="SajorEmployeeData/SajorEmployeeData.sqlproj" Id="e3eccf1f-2ff8-4111-9049-53cbc7cb864a">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SajorIPTFramework/SajorIPTFramework.csproj" Id="3bdf2b02-9288-492d-9758-094394326dbc" />
+  <Project Path="SajorMauiApp/SajorMauiApp.csproj" Id="d9c1cbb3-7df0-4fe7-99b3-ee8fbd331d7d" />
+  <Project Path="SajorRepository/SajorRepository.csproj" Id="ec150c8c-6d2e-4e83-95aa-08879301af30" />
+  <Project Path="SajorWpf/SajorWpf.csproj" Id="9b7375b2-94d8-4e5c-b3a5-cf3851793c47" />
+</Solution>

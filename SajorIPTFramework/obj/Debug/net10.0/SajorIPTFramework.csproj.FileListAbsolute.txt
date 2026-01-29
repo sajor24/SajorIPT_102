@@ -1,0 +1,17 @@
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\bin\Debug\net10.0\SajorIPTFramework.deps.json
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\bin\Debug\net10.0\SajorIPTFramework.dll
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\bin\Debug\net10.0\SajorIPTFramework.pdb
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\bin\Debug\net10.0\SajorRepository.dll
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\bin\Debug\net10.0\SajorRepository.pdb
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPTFramework.csproj.AssemblyReference.cache
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPTFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPTFramework.AssemblyInfoInputs.cache
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPTFramework.AssemblyInfo.cs
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPTFramework.csproj.CoreCompileInputs.cache
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPT.4EA0589C.Up2Date
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPTFramework.dll
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\refint\SajorIPTFramework.dll
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\SajorIPTFramework.pdb
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\obj\Debug\net10.0\ref\SajorIPTFramework.dll
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\bin\Debug\net10.0\SajorDomain.dll
+D:\SajorIPT102\Sajor_IPT102\SajorIPTFramework\bin\Debug\net10.0\SajorDomain.pdb
